@@ -1,0 +1,73 @@
+/*HELVETICA*/
+
+@font-face {
+    font-family: 'Helvetica';
+    src: url('../fonts/Helvetica/HelveticaLTStd-Roman.eot');
+    src: url('../fonts/Helvetica/HelveticaLTStd-Roman.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Helvetica/HelveticaLTStd-Roman.woff') format('woff'),
+    url('../fonts/Helvetica/HelveticaLTStd-Roman.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*HELVETICA*/
+
+/*MONTSERRAT*/
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat/Montserrat-Regular.eot');
+    src: url('../fonts/Montserrat/Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Montserrat/Montserrat-Regular.woff') format('woff'),
+    url('../fonts/Montserrat/Montserrat-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat/Montserrat-SemiBold.eot');
+    src: url('../fonts/Montserrat/Montserrat-SemiBold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Montserrat/Montserrat-SemiBold.woff') format('woff'),
+    url('../fonts/Montserrat/Montserrat-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+/*MONTSERRAT*/
+
+/*ANDALE*/
+
+@font-face {
+    font-family: 'Andale';
+    src: url('../fonts/Andale/andale.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/*ANDALE*/
+
+/*MARKET*/
+
+@font-face {
+    font-family: 'MarketOT';
+    src: url('../fonts/MarketOT/market-regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/*MARKET*/
+
+/*MUSEOSANSROUNDED*/
+
+@font-face {
+    font-family: 'MuseoSans';
+    src: local('Museo Sans Rounded 700'), local('Museo-Sans-Rounded-700'),
+    url('../fonts/MuseoSansRounded/MuseoSansRounded-700.woff2') format('woff2'),
+    url('../fonts/MuseoSansRounded/MuseoSansRounded-700.woff') format('woff'),
+    url('../fonts/MuseoSansRounded/MuseoSansRounded-700.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*MUSEOSANSROUNDED*/
